@@ -1,0 +1,22 @@
+{
+  "name": "passgen",
+  "version": "1.0.0",
+  "description": "A Password Generator, it generates a password so you don't have to!",
+  "main": "app.js",
+  "bin": {
+        "passgen": "app.js"
+  },
+  "scripts": {
+    "test": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZachH155/QAP1_passwordgen.git"
+  },
+  "author": "Zachary Hulan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZachH155/QAP1_passwordgen/issues"
+  },
+  "homepage": "https://github.com/ZachH155/QAP1_passwordgen#readme"
+}
